@@ -2,7 +2,7 @@
 
 Various scripts and bit of analysis of information available in public sources.
 
-Goal: Create some useful utilities to analys common data sources
+Goal: Create some useful utilities to analyse common data sources
 
 Sources:
 
