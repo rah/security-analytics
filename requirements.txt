@@ -1,0 +1,6 @@
+pandas
+matplotlib
+verispy
+numpy
+seaborn
+plotly
